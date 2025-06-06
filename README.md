@@ -2,11 +2,26 @@
 <h3 align="center">A passionate Data Analyst from Sri Lanka</h3>
 
 
-- 🌱 I’m currently learning **MS Power Automate**
 
-- 💬 Ask me about **Excel, Power Bi, SQL and Python**
 
-- 📫 How to reach me **hareen.mi@gmail.com**
+<table width="120%" border="0">
+  <tr>
+    <td width="60%" style="padding-right: 20; vertical-align: top;">
+      <p>🌱 I’m currently learning <strong>MS Power Automate</strong></p>
+      <br>
+      <p>💬 Ask me about <strong>Excel, Power BI, SQL and Python</strong></p>
+      <br>
+      <p>📫 How to reach me <a href="mailto:hareen.mi@gmail.com">hareen.mi@gmail.com</a></p>
+    </td>
+    <td width="60%">
+      <img src="https://github.com/Hareendranatha/Hareendranatha/blob/main/Image/Internet%20Streaming%20GIF%20by%20Butlerm.gif?raw=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 <h3 align="left">Connect with me:</h3>
